@@ -1,9 +1,9 @@
-<a href="https://github.com/CommonAccord/CmA_F_Agt-Consulting">https://github.com/CommonAccord/CmA_F_Agt-Consulting</a>
+<a href="https://github.com/CommonAccord/Agt-Consulting-CmA">https://github.com/CommonAccord/Agt-Consulting-CmA</a>
 
 Derived from CooleyGo.  Highly organized, based on general themes, with many titles.
 
 DEPENDENCIES:
 
-CmA_F_Agt-Outline-Universal
+Agt-Outline-Universal-CmA
 
-CmA_F_Agt-NDA
+Agt-NDA-CmA
